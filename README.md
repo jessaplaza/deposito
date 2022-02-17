@@ -1,5 +1,4 @@
 # deposito
-Tarea ED04
 package cuentas;
 
 /**
